@@ -3,7 +3,7 @@
 /*******************************/
 
 :root {
-    --main-color: #206ba2;
+    --main-color: #3C4C70;
     --nav-link-active-color: #bffc26;
     --nice-gray: #414141;
     --light-blue: #3d77a2;
@@ -229,7 +229,7 @@ a:focus {
     }
 
     .navbar.nav-sticky .navbar-brand-dot {
-        color: var(--nice-gray);
+        color: var(--nav-link-active-color);
         font-size: 50px;
     }
 
